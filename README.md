@@ -16,4 +16,4 @@ i left the source incomplete so you don't paste directly
                 
                 include directx errors can be fixed by adding the path of the directx folder\
                 
-                include imgui (easy)
+                include imgui if you want to use imgui (easy)
