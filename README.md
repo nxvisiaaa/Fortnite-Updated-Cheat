@@ -9,3 +9,11 @@ Have fun pasting
 join my server for updates to src
 
 https://discord.gg/xJnRybBgGm
+
+i left the source incomplete so you don't paste directly
+
+                To Paste List
+                
+                include directx errors can be fixed by adding the path of the directx folder\
+                
+                include imgui (easy)
