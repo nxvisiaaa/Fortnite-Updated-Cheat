@@ -14,6 +14,4 @@ i left the source incomplete so you don't paste directly
 
                 To Paste List
                 
-                include directx errors can be fixed by adding the path of the directx folder\
-                
-                include imgui if you want to use imgui (easy) ( Originaly uses zerogui )
+                nvm i completed it
