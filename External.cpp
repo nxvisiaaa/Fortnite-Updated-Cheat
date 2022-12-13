@@ -445,7 +445,7 @@ void ActorLoop()
 	{
 		vmread<uintptr_t>(baseaddy + 0x0060); // trigger veh set - add module to whitelist filter
 
-		settings::Uworld = vmread<DWORD_PTR>(baseaddy + 0xE11FDC8);
+		settings::Uworld = vmread<DWORD_PTR>(baseaddy + 0xe9ea3f8);
 		settings::Gameinstance = vmread<DWORD_PTR>(settings::Uworld + 0x1B8);
 		settings::LocalPlayers = vmread<DWORD_PTR>(settings::Gameinstance + 0x38);
 		settings::Localplayer = vmread<DWORD_PTR>(settings::LocalPlayers);
